@@ -1,0 +1,16 @@
+E:\Lập trình mạng\Lab\Lab1\Lab_01\Lab_01\obj\Debug\Lab_01.csproj.AssemblyReference.cache
+E:\Lập trình mạng\Lab\Lab1\Lab_01\Lab_01\obj\Debug\Lab_01.csproj.SuggestedBindingRedirects.cache
+E:\Lập trình mạng\Lab\Lab1\Lab_01\Lab_01\obj\Debug\Lab_01.MainForm.resources
+E:\Lập trình mạng\Lab\Lab1\Lab_01\Lab_01\obj\Debug\Lab_01.Properties.Resources.resources
+E:\Lập trình mạng\Lab\Lab1\Lab_01\Lab_01\obj\Debug\Lab_01.csproj.GenerateResource.cache
+E:\Lập trình mạng\Lab\Lab1\Lab_01\Lab_01\obj\Debug\Lab_01.csproj.CoreCompileInputs.cache
+E:\Lập trình mạng\Lab\Lab1\Lab_01\Lab_01\bin\Debug\Lab_01.exe.config
+E:\Lập trình mạng\Lab\Lab1\Lab_01\Lab_01\bin\Debug\Lab_01.exe
+E:\Lập trình mạng\Lab\Lab1\Lab_01\Lab_01\bin\Debug\Lab_01.pdb
+E:\Lập trình mạng\Lab\Lab1\Lab_01\Lab_01\obj\Debug\Lab_01.Bai01.resources
+E:\Lập trình mạng\Lab\Lab1\Lab_01\Lab_01\obj\Debug\Lab_01.exe
+E:\Lập trình mạng\Lab\Lab1\Lab_01\Lab_01\obj\Debug\Lab_01.pdb
+E:\Lập trình mạng\Lab\Lab1\Lab_01\Lab_01\obj\Debug\Lab_01.Bai02.resources
+E:\Lập trình mạng\Lab\Lab1\Lab_01\Lab_01\obj\Debug\Lab_01.Bai03.resources
+E:\Lập trình mạng\Lab\Lab1\Lab_01\Lab_01\obj\Debug\Lab_01.Bai04.resources
+E:\Lập trình mạng\Lab\Lab1\Lab_01\Lab_01\obj\Debug\Lab_01.Bai05.resources
