@@ -1,0 +1,51 @@
+E:\Lập trình mạng\Lab\Lab2\Lab2\Lab2\bin\Debug\Lab2.exe.config
+E:\Lập trình mạng\Lab\Lab2\Lab2\Lab2\bin\Debug\Lab2.exe
+E:\Lập trình mạng\Lab\Lab2\Lab2\Lab2\bin\Debug\Lab2.pdb
+E:\Lập trình mạng\Lab\Lab2\Lab2\Lab2\obj\Debug\Lab2.csproj.AssemblyReference.cache
+E:\Lập trình mạng\Lab\Lab2\Lab2\Lab2\obj\Debug\Lab2.csproj.SuggestedBindingRedirects.cache
+E:\Lập trình mạng\Lab\Lab2\Lab2\Lab2\obj\Debug\Lab2.MainForm.resources
+E:\Lập trình mạng\Lab\Lab2\Lab2\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+E:\Lập trình mạng\Lab\Lab2\Lab2\Lab2\obj\Debug\Lab2.csproj.GenerateResource.cache
+E:\Lập trình mạng\Lab\Lab2\Lab2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+E:\Lập trình mạng\Lab\Lab2\Lab2\Lab2\obj\Debug\Lab2.exe
+E:\Lập trình mạng\Lab\Lab2\Lab2\Lab2\obj\Debug\Lab2.pdb
+E:\Lập trình mạng\Lab\Lab2\Lab2\Lab2\obj\Debug\Lab2.Bai01.resources
+E:\LT_mang\Lab\Lab2\Lab2\Lab2\bin\Debug\Lab2.exe.config
+E:\LT_mang\Lab\Lab2\Lab2\Lab2\bin\Debug\Lab2.exe
+E:\LT_mang\Lab\Lab2\Lab2\Lab2\bin\Debug\Lab2.pdb
+E:\LT_mang\Lab\Lab2\Lab2\Lab2\obj\Debug\Lab2.csproj.AssemblyReference.cache
+E:\LT_mang\Lab\Lab2\Lab2\Lab2\obj\Debug\Lab2.csproj.SuggestedBindingRedirects.cache
+E:\LT_mang\Lab\Lab2\Lab2\Lab2\obj\Debug\Lab2.Bai01.resources
+E:\LT_mang\Lab\Lab2\Lab2\Lab2\obj\Debug\Lab2.Bai02.resources
+E:\LT_mang\Lab\Lab2\Lab2\Lab2\obj\Debug\Lab2.MainForm.resources
+E:\LT_mang\Lab\Lab2\Lab2\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+E:\LT_mang\Lab\Lab2\Lab2\Lab2\obj\Debug\Lab2.csproj.GenerateResource.cache
+E:\LT_mang\Lab\Lab2\Lab2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+E:\LT_mang\Lab\Lab2\Lab2\Lab2\obj\Debug\Lab2.exe
+E:\LT_mang\Lab\Lab2\Lab2\Lab2\obj\Debug\Lab2.pdb
+E:\LT_mang\Lab\Lab2\Lab2\Lab2\obj\Debug\Lab2.Bai03.resources
+E:\LT_mang\Lab\Lab2\Lab2\Lab2\obj\Debug\Lab2.Bai04.resources
+E:\LT_mang\Lab\Lab2\Lab2\Lab2\obj\Debug\Lab2.Bai04_b.resources
+E:\Network\Lab\Lab2\Lab2\Lab2\bin\Debug\Lab2.exe.config
+E:\Network\Lab\Lab2\Lab2\Lab2\bin\Debug\Lab2.exe
+E:\Network\Lab\Lab2\Lab2\Lab2\bin\Debug\Lab2.pdb
+E:\Network\Lab\Lab2\Lab2\Lab2\obj\Debug\Lab2.csproj.AssemblyReference.cache
+E:\Network\Lab\Lab2\Lab2\Lab2\obj\Debug\Lab2.csproj.SuggestedBindingRedirects.cache
+E:\Network\Lab\Lab2\Lab2\Lab2\obj\Debug\Lab2.Bai01.resources
+E:\Network\Lab\Lab2\Lab2\Lab2\obj\Debug\Lab2.Bai02.resources
+E:\Network\Lab\Lab2\Lab2\Lab2\obj\Debug\Lab2.Bai03.resources
+E:\Network\Lab\Lab2\Lab2\Lab2\obj\Debug\Lab2.Bai04.resources
+E:\Network\Lab\Lab2\Lab2\Lab2\obj\Debug\Lab2.Bai04_b.resources
+E:\Network\Lab\Lab2\Lab2\Lab2\obj\Debug\Lab2.MainForm.resources
+E:\Network\Lab\Lab2\Lab2\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+E:\Network\Lab\Lab2\Lab2\Lab2\obj\Debug\Lab2.csproj.GenerateResource.cache
+E:\Network\Lab\Lab2\Lab2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+E:\Network\Lab\Lab2\Lab2\Lab2\obj\Debug\Lab2.exe
+E:\Network\Lab\Lab2\Lab2\Lab2\obj\Debug\Lab2.pdb
+E:\Network\Lab\Lab2\Lab2\Lab2\bin\Debug\EPPlus.dll
+E:\Network\Lab\Lab2\Lab2\Lab2\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+E:\Network\Lab\Lab2\Lab2\Lab2\bin\Debug\System.ComponentModel.Annotations.dll
+E:\Network\Lab\Lab2\Lab2\Lab2\bin\Debug\EPPlus.xml
+E:\Network\Lab\Lab2\Lab2\Lab2\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+E:\Network\Lab\Lab2\Lab2\Lab2\obj\Debug\Lab2.csproj.CopyComplete
+E:\Network\Lab\Lab2\Lab2\Lab2\obj\Debug\Lab2.Bai05.resources
